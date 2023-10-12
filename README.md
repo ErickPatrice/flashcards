@@ -1,4 +1,4 @@
-## Pour utiliser l'application veuillez suivre ces étapes:
+### Pour utiliser l'application veuillez suivre ces étapes:
 
 1- dans une fenêtre de terminal se positionner à la racine du dossier
 
