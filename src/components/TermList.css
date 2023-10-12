@@ -1,0 +1,28 @@
+/* src/components/TermList.css */
+
+.term-buttons {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap; /* Allow buttons to wrap to the next line if there's not enough space */
+    gap: 10px; /* Add spacing between buttons */
+  }
+  
+  .term-button {
+    background-color: #007bff; /* Button background color */
+    color: #fff; /* Text color */
+    border: none;
+    padding: 10px 20px; /* Padding for each button */
+    cursor: pointer;
+    border-radius: 5px; /* Rounded corners */
+    transition: background-color 0.3s ease; /* Smooth hover effect */
+  
+    /* Horizontally center text within buttons */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .term-button:hover {
+    background-color: #0056b3; /* Hover background color */
+  }
+  

@@ -1,0 +1,20 @@
+/* src/components/Columns.css */
+
+.columns {
+    display: flex; /* Display columns horizontally */
+    justify-content: space-between; /* Add space between columns */
+  }
+  
+  .column {
+    flex: 1; /* Allow columns to take equal space */
+    border: 1px solid #ccc; /* Add borders to columns for clarity */
+    padding: 10px;
+    margin: 10px;
+  }
+  
+  /* Additional styling for cards if needed */
+  .column ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
