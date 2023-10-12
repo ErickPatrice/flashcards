@@ -14,6 +14,6 @@
 => il faut cliquer sur le bouton AdminModeOn pour avoir accès à la modification de cartes
 => lors de l'ajout d'une carte, le formulaire apparait sous les cartes existantes
 
-## Remarques: Le rafraichissement de la page lors d'un delete n'a pas été correctement implémenté.
+### Remarques: Le rafraichissement de la page lors d'un delete n'a pas été correctement implémenté.
 
  
